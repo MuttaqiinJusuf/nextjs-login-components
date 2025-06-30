@@ -55,7 +55,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/yourusername/nextjs-login-components"
+    "url": "https://github.com/MuttaqiinJusuf/nextjs-login-components"
   },
   "publishConfig": {
     "access": "public"
